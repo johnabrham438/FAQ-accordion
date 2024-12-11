@@ -102,7 +102,7 @@ button{
 }
 @media screen and (max-width: 600px) {
     .faq{
-        width: 20rem;
+        width: 15.5rem;
     }
     .faq-text{
         width: 19rem;
@@ -113,8 +113,5 @@ button{
         background-size: cover;
 
     }
-
-}
-@media screen and (max-width: 1440px) {
 
 }
