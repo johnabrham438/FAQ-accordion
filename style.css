@@ -102,10 +102,10 @@ button{
 }
 @media screen and (max-width: 600px) {
     .faq{
-        width: 23rem;
+        width: 20rem;
     }
     .faq-text{
-        width: 25rem;
+        width: 30rem;
     }
     .header-img{
         background-image: url('assets/images/background-pattern-mobile.svg');
